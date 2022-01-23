@@ -1,0 +1,35 @@
+{
+  "intents": [
+    {
+      "tag": "sick",
+      "patterns": [
+        "My dog was sick",
+        "My pet is sick",
+        "My pet was sick",
+        "pet is not well",
+        "pet is sick",
+        "Sik",
+        "sick"
+      ],
+      "responses": [
+        "Please note i am only can help for the dog illness only. \n Ok, I will ask simple question from you, if your ok with that please type 'Yes' to continue"
+      ]
+    },
+      {
+      "tag": "shop",
+      "patterns": [
+        "i want to buy food",
+        "where is dog items",
+        "dog items",
+        "dog",
+        "dog shop",
+        "pet shop",
+        "shop",
+        "How can i buy dog items"
+      ],
+      "responses": [
+        "Got Home page click on drop down"
+      ]
+    }
+  ]
+}

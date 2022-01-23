@@ -1,0 +1,112 @@
+{
+  "intents": [
+    {
+      "tag": "parvovirus",
+      "id": 0,
+      "symptoms": [
+        {"fever": "YES"},
+        {"diarrhea": "YES"},
+        {"vomiting": "YES"},
+        {"reduced_appetite": "YES"},
+        {"dehydration": "YES"},
+        {"leathargy": "YES"},
+        {"Increased_urination": "NO"},
+        {"Weight_loss": "YES"},
+        {"skin_infections": "NO"},
+        {"labored_breathing": "NO"},
+        {"runny_eyes": "NO"},
+        {"coughing": "NO"},
+        {"paralysis": "no"},
+        {"limping":"NO"}
+
+
+      ],
+      "responses":  "Parvo Virus"
+    },
+    {
+      "tag": "diabetes",
+      "id": 1,
+      "symptoms": [
+        {"fever": "no"},
+        {"diarrhea": "no"},
+        {"vomiting": "YES"},
+        {"reduced_appetite": "no"},
+        {"dehydration": "YES"},
+        {"leathargy": "YES"},
+        {"Increased_urination": "NO"},
+        {"Weight_loss": "YES"},
+        {"skin_infections": "yes"},
+        {"labored_breathing": "NO"},
+        {"runny_eyes": "NO"},
+        {"coughing": "NO"},
+        {"paralysis": "no"},
+        {"limping":"NO"}
+
+      ],
+      "responses":  "Diabetes"
+    },
+    {
+      "tag": "heartworm",
+      "id": 2,
+      "symptoms": [
+        {"fever": "no"},
+        {"diarrhea": "no"},
+        {"vomiting": "yes"},
+        {"reduced_appetite": "no"},
+        {"dehydration": "no"},
+        {"leathargy": "no"},
+        {"Increased_urination": "NO"},
+        {"Weight_loss": "yes"},
+        {"skin_infections": "no"},
+        {"labored_breathing": "yes"},
+        {"runny_eyes": "NO"},
+        {"coughing": "NO"},
+        {"paralysis": "no"},
+        {"limping":"NO"}
+      ],
+      "responses":  "Diabetes"
+    },
+    {
+      "tag": "Canine distemper",
+      "id":3 ,
+      "symptoms": [
+        {"fever": "yes"},
+        {"diarrhea": "no"},
+        {"vomiting": "yes"},
+        {"reduced_appetite": "no"},
+        {"dehydration": "no"},
+        {"leathargy": "yes"},
+        {"Increased_urination": "NO"},
+        {"Weight_loss": "no"},
+        {"skin_infections": "no"},
+        {"labored_breathing": "NO"},
+        {"runny_eyes": "yes"},
+        {"coughing": "yes"},
+        {"paralysis": "yes"},
+        {"limping":"NO"}
+      ],
+      "responses":  "Canine Distemper"
+    },
+        {
+      "tag": "Lyme disease",
+      "id":4 ,
+      "symptoms": [
+        {"fever": "yes"},
+        {"diarrhea": "no"},
+        {"vomiting": "no"},
+        {"reduced_appetite": "yes"},
+        {"dehydration": "no"},
+        {"leathargy": "no"},
+        {"Increased_urination": "NO"},
+        {"Weight_loss": "no"},
+        {"skin_infections": "no"},
+        {"labored_breathing": "NO"},
+        {"runny_eyes": "NO"},
+        {"coughing": "NO"},
+        {"paralysis": "no"},
+        {"limping":"yes"}
+      ],
+      "responses":  "Lyme Disease"
+    }
+    ]
+}

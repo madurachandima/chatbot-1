@@ -1,0 +1,80 @@
+{
+  "intents": [
+    {
+      "tag": "fever",
+      "responses":  "Is your Dog has a Fever ?"
+
+    },
+      {
+      "tag": "diarrhea",
+      "responses":
+        "Is your Dog has a Diarrhea ?"
+
+    },
+     {
+      "tag": "vomiting",
+      "responses":
+        "Is your Dog is Vomiting ?"
+
+    },
+     {
+      "tag": "reduced_appetite",
+      "responses":
+        "Is your Dog have a Reduced Appetite?"
+
+    },
+     {
+      "tag": "dehydration",
+      "responses":
+        "Is your Dog has Dehydration?"
+
+    },
+        {
+      "tag": "leathargy",
+      "responses":  "Is your Dog is Lethargy?"
+
+    },
+      {
+      "tag": "Increased_urination",
+      "responses":
+        "Is your Dog is Increased Urination?"
+    },
+     {
+      "tag": "Weight_loss",
+      "responses":
+        "Is your Dog Weight Loss?"
+    },
+     {
+      "tag": "skin_infections",
+      "responses":
+        "Is your Dog have skin Infections?"
+    },
+     {
+      "tag": "labored_breathing",
+      "responses":
+        "Is your Dog is Labored Breathing?"
+    },
+
+        {
+      "tag": "runny_eyes",
+      "responses":  "Is your Dog have Runny Eyes?"
+
+    },
+      {
+      "tag": "coughing",
+      "responses":
+        "Is your Dog having Coughing?"
+    },
+
+     {
+      "tag": "paralysis",
+      "responses":
+        "Is your Dog has Paralysis?"
+    },
+     {
+      "tag": "limping",
+      "responses":
+        "Is your Dog has Limping?"
+    }
+  ]
+}
